@@ -4,10 +4,6 @@ An open-source platform for building, managing, and selling interactive online m
 
 Built with Next.js 16, Payload CMS, PostgreSQL, MongoDB, Stripe, and Mux, the platform combines a fast student experience with a flexible content-management workflow. Lessons support video, quizzes, LaTeX formulas, Mermaid diagrams, Desmos graphs, and rich Markdown content.
 
-## Demo
-
-Explore the live application at [nextjs-math-course.vercel.app](https://nextjs-math-course.vercel.app/).
-
 ## Features
 
 - **Full Authentication** - powered by **BetterAuth**, featuring Google OAuth, Google One Tap, email verification & password reset via **Resend**. Includes block for disposable emails, last used method badge, session limits and rate limiting with **Redis** to prevent account sharing and abuse.
